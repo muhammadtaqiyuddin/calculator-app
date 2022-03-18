@@ -1,0 +1,15 @@
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.exe
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.deps.json
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.runtimeconfig.json
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.pdb
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.csproj.AssemblyReference.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfoInputs.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfo.cs
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.csproj.CoreCompileInputs.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\refint\kalkulator.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.pdb
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.genruntimeconfig.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\kalkulator\kalkulator\obj\Debug\net6.0\ref\kalkulator.dll
